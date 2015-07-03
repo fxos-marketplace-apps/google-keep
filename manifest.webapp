@@ -1,0 +1,22 @@
+{
+    "name": "Google Keep",
+    "launch_path": "/google-keep/index.html",
+    "description": "Google Keep is a free way to save your thoughts on your phone, tablet, or computer.",
+    "icons": {
+        "60": "/google-keep/img/icon-60.png",
+        "128": "/google-keep/img/icon-128.png"
+    },
+    "developer": {
+        "name": "Google, Inc.",
+        "url": "http://google.com"
+    },
+    "default_locale": "en",
+    "permissions": {
+        "browser": {
+            "description": "Allows us to have additional control over how our app is rendered."
+        },
+        "geolocation": {
+            "description": "Position the user without prompting."
+        }
+    }
+}
